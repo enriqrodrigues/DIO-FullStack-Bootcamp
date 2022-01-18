@@ -1,0 +1,15 @@
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\exemplo-construtores.exe
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\exemplo-construtores.deps.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\exemplo-construtores.runtimeconfig.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\exemplo-construtores.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\ref\exemplo-construtores.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\bin\Debug\net6.0\exemplo-construtores.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.csproj.AssemblyReference.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.AssemblyInfoInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.AssemblyInfo.cs
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\ref\exemplo-construtores.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula4-construtores\exemplo-construtores\obj\Debug\net6.0\exemplo-construtores.genruntimeconfig.cache
