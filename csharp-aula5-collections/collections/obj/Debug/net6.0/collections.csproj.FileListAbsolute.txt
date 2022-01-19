@@ -1,0 +1,15 @@
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\collections.exe
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\collections.deps.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\collections.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\ref\collections.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\bin\Debug\net6.0\collections.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.csproj.AssemblyReference.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.AssemblyInfo.cs
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\ref\collections.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula5-collections\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
