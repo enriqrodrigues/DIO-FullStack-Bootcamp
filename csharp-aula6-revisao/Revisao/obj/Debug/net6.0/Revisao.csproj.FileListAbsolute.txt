@@ -1,0 +1,15 @@
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\Revisao.exe
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\Revisao.deps.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\Revisao.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\ref\Revisao.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\bin\Debug\net6.0\Revisao.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\ref\Revisao.dll
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.pdb
+C:\Users\Henrique Rodrigues\Documents\Git\DIO-FullStack-Bootcamp\csharp-aula6-revisao\Revisao\obj\Debug\net6.0\Revisao.genruntimeconfig.cache
