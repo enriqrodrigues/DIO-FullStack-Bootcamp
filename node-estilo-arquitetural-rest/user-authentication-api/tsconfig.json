@@ -1,0 +1,19 @@
+/* Visit https://aka.ms/tsconfig.json to read more about this file */
+{
+  "compilerOptions": {
+    "target": "es2016",   //para qual versão do javascript será compilado.
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "typeRoots": [  //Aqui é onde serão colocados os arquivos de definição do typescript.
+      "./src/@types",   
+      "./node_modules/@types"
+    ],
+    "outDir": "./dist", //Onde será salvo o código transpilado.
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
