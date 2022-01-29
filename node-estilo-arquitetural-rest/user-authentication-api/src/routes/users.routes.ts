@@ -1,32 +1,42 @@
 import { NextFunction, Request, Response, Router } from "express";
 import { StatusCodes } from "http-status-codes";
+import userRepository from "../repositories/user.repository";
 
 const userRoute = Router();
 
-userRoute.get('/users', (req: Request, res: Response, next: NextFunction) => {
-    const users = [{ userName: 'teste username'}];
+userRoute.get('/users', async (req: Request, res: Response, next: NextFunction) => {
+    const users = await userRepository.findAllUsers();
     res.status(StatusCodes.OK).send(users);
 });
 
-userRoute.get('/users/:uuid', (req: Request<{ uuid: String }>, res: Response, next: NextFunction) => {
-    //O : na url informa ao typescript que este é um parâmetro que está sendo passado dentro da url.
-    const uuid = req.params.uuid;   //recebe o parâmetro passado na url.
-    res.status(StatusCodes.OK).send( {uuid} );
+userRoute.get('/users/:uuid', async (req: Request<{ uuid: string }>, res: Response, next: NextFunction) => {
+    try {
+        const uuid = req.params.uuid; 
+        const user = await userRepository.findById(uuid);
+        res.status(StatusCodes.OK).send(user);        
+    } catch (error) {
+        next(error);
+    }
+
 });
 
-userRoute.post('/users', (req: Request, res: Response, next: NextFunction) => {
+userRoute.post('/users', async (req: Request, res: Response, next: NextFunction) => {
     const newUser = req.body;
-    res.status(StatusCodes.CREATED).send(newUser);
+    const uuid = await userRepository.create(newUser);
+    res.status(StatusCodes.CREATED).send(uuid);
 });
 
-userRoute.put('/users/:uuid', (req: Request<{ uuid: String }>, res: Response, next: NextFunction) => {
+userRoute.put('/users/:uuid', async (req: Request<{ uuid: String }>, res: Response, next: NextFunction) => {
     const uuid = req.params.uuid;
     const modifiedUser = req.body;
     modifiedUser.uuid = uuid;
-    res.status(StatusCodes.OK).send( {modifiedUser} );
+    await userRepository.update(modifiedUser);
+    res.status(StatusCodes.OK).send();
 });
 
-userRoute.delete('/users/:uuid', (req: Request<{ uuid: String }>, res: Response, next: NextFunction) => {
+userRoute.delete('/users/:uuid', async (req: Request<{ uuid: string }>, res: Response, next: NextFunction) => {
+    const uuid = req.params.uuid;
+    await userRepository.remove(uuid);
     res.sendStatus(StatusCodes.OK);
 });
 
